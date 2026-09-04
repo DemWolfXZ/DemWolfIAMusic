@@ -1,8 +1,25 @@
 # 🐺 DemWolf IA Music
 
-Sitio web oficial de **DemWolf IA Music**, un proyecto musical enfocado principalmente en sonidos derivados del **Hard Rock, Heavy Metal, Power Metal, Metalcore y Djent**.
+### Hard Rock • Heavy Metal • Power Metal • Metalcore • Djent
 
-La página funciona como punto central para presentar el proyecto, escuchar los lanzamientos directamente desde Spotify y acceder a las diferentes plataformas donde se encuentra disponible la música.
+[![Website](https://img.shields.io/badge/🌐_Sitio_Web-DemWolf_IA_Music-b22222?style=for-the-badge)](https://demwolfxz.github.io/DemWolfIAMusic/)
+[![GitHub](https://img.shields.io/badge/GitHub-DemWolfIAMusic-181717?style=for-the-badge&logo=github)](https://github.com/demwolfxz/DemWolfIAMusic)
+
+---
+
+## 🌐 Sitio web
+
+🔗 **https://demwolfxz.github.io/DemWolfIAMusic/**
+
+---
+
+## 🎵 Sobre DemWolf
+
+**DemWolf IA Music** es un proyecto musical personal enfocado principalmente en distintos estilos derivados del **Rock y Metal**.
+
+El proyecto utiliza herramientas de **Inteligencia Artificial como apoyo en el proceso de producción musical**, mientras que las letras, conceptos e ideas detrás de las canciones son desarrollados originalmente para el proyecto.
+
+La música nace principalmente de experiencias, emociones, reflexiones y situaciones personales transformadas en canciones.
 
 Actualmente el sitio reúne dos proyectos musicales:
 
@@ -11,34 +28,11 @@ Actualmente el sitio reúne dos proyectos musicales:
 
 ---
 
-## 🎵 Sobre el proyecto
+# 🐺 DemWolf IA Music
 
-**DemWolf IA Music** nace como un proyecto personal donde la música sirve como medio para transformar experiencias, emociones, reflexiones y momentos de vida en canciones.
+**DemWolf IA Music** es el proyecto principal y explora diferentes estilos dentro del Rock y Metal.
 
-Las producciones utilizan herramientas de **Inteligencia Artificial como apoyo en el proceso musical**, mientras que las letras y conceptos detrás de cada canción son desarrollados originalmente para el proyecto.
-
-Las canciones exploran temas como:
-
-- Experiencias personales
-- Superación
-- Rabia y frustración
-- Reflexión
-- Crítica social
-- Resistencia
-- Búsqueda personal
-- Momentos importantes de la vida
-
-Todo esto acompañado principalmente por sonidos provenientes del rock y diferentes variantes del metal.
-
----
-
-# 🐺 Proyectos musicales
-
-## 🎸 DemWolf IA Music
-
-Proyecto principal orientado a diferentes estilos dentro del rock y metal.
-
-Entre los géneros explorados se encuentran:
+Entre ellos:
 
 - Hard Rock
 - Heavy Metal
@@ -47,149 +41,126 @@ Entre los géneros explorados se encuentran:
 - Djent
 - Metal moderno
 - Metal melódico
+- Otros estilos derivados del Rock y Metal
 
-La web incluye un reproductor integrado de Spotify que permite escuchar directamente los lanzamientos del artista.
+Las canciones exploran temáticas como:
 
-### Escuchar DemWolf IA Music
+- Experiencias personales
+- Superación
+- Rabia y frustración
+- Reflexión
+- Crítica social
+- Resistencia
+- Búsqueda personal
+- Cambios importantes en la vida
 
-🎧 **Spotify**  
+Las letras son **100 % de autoría propia**.
+
+---
+
+## 🎧 Escuchar DemWolf IA Music
+
+### Spotify
+
 https://open.spotify.com/intl-es/artist/5QYoKBumnLb5SHOBVUNbDS
 
-🍎 **Apple Music**  
+### Apple Music
+
 https://music.apple.com/cl/artist/demwolfiamusic/1884131035
 
-🎶 **Deezer**  
+### Deezer
+
 https://www.deezer.com/es/artist/378662071
 
-☁️ **SoundCloud**  
+### SoundCloud
+
 https://soundcloud.com/demwolfiamusic-210523085
 
-▶️ **YouTube Music**  
+### YouTube Music
+
 https://music.youtube.com/channel/UCrvEhjRmcyx1PbhUC14pFGQ
 
-🎵 **TikTok**  
+### TikTok
+
 https://www.tiktok.com/@demwolfiamusic
 
 ---
 
-## 🔥 DemWolf Unleashed
+# 🔥 DemWolf Unleashed
 
-**DemWolf Unleashed** es un proyecto paralelo dentro del universo DemWolf.
+**DemWolf Unleashed** es un proyecto musical paralelo dentro del universo DemWolf.
 
-Cuenta con su propio perfil artístico y distribución independiente, pero se encuentra integrado dentro del mismo sitio web para mantener todos los proyectos musicales centralizados en un solo lugar.
+Cuenta con una identidad y perfiles musicales independientes, pero comparte el mismo sitio web oficial para mantener ambos proyectos centralizados bajo una misma plataforma.
 
-La página dispone de un segundo reproductor de Spotify dedicado exclusivamente a los lanzamientos de **DemWolf Unleashed**.
+La página incorpora un reproductor independiente de Spotify para escuchar directamente los lanzamientos de **DemWolf Unleashed**.
 
-### Escuchar DemWolf Unleashed
+---
 
-🎧 **Spotify**  
+## 🎧 Escuchar DemWolf Unleashed
+
+### Spotify
+
 https://open.spotify.com/intl-es/artist/4D6A7vVqK0sl11nlxOvtMH
 
-🍎 **Apple Music**  
+### Apple Music
+
 https://music.apple.com/cl/artist/demwolf-unleashed/6778835726
 
-▶️ **YouTube Music**  
+### YouTube Music
+
 https://music.youtube.com/channel/UCy_c5FusmNXJrDlfIjVw2Yw
 
-📺 **YouTube**  
+### YouTube
+
 https://www.youtube.com/channel/UCy_c5FusmNXJrDlfIjVw2Yw
 
-🎵 **TikTok**  
+### TikTok
+
 https://www.tiktok.com/@demwolf.unleashed
 
 ---
 
-# 🌐 Sobre el sitio web
+# 💻 Sobre el desarrollo
 
-La página fue desarrollada como una **Landing Page musical responsive**, pensada para centralizar la identidad y presencia digital de los proyectos.
+Este repositorio contiene el código fuente del sitio web oficial de **DemWolf IA Music**.
 
-El sitio está dividido en diferentes secciones.
+El proyecto fue desarrollado como una **Landing Page responsive**, con el objetivo de centralizar:
 
-## 🏠 Inicio
+- Información del proyecto musical
+- Biografía artística
+- Reproductores de Spotify
+- Plataformas de streaming
+- Redes sociales
+- DemWolf IA Music
+- DemWolf Unleashed
 
-Presentación visual principal de **DemWolf IA Music**, utilizando una estética oscura inspirada en el Hard Rock y Heavy Metal.
-
-Incluye:
-
-- Banner principal
-- Identidad visual del proyecto
-- Géneros musicales
-- Acceso directo a la discografía
-- Acceso al último lanzamiento
+El sitio fue desarrollado utilizando tecnologías web del lado del cliente, sin necesidad de frameworks complejos ni procesos de compilación.
 
 ---
 
-## 👤 Sobre mí
+# 🛠️ Tecnologías utilizadas
 
-Sección dedicada a explicar el concepto detrás de la música.
-
-Presenta información sobre:
-
-- Influencias musicales
-- Proceso creativo
-- Uso de IA como herramienta de producción
-- Autoría de las letras
-- Experiencias personales utilizadas como inspiración
-- Propósito detrás de las canciones
-
-También incorpora elementos visuales y fotografías relacionadas con la identidad de **DemWolf IA Music**.
-
----
-
-## 🎧 Mis proyectos
-
-Esta sección concentra los diferentes proyectos musicales.
-
-Actualmente contiene:
-
-### DemWolf IA Music
-
-Reproductor oficial integrado mediante **Spotify Embed**, acompañado de accesos directos a las distintas plataformas musicales.
-
-### DemWolf Unleashed
-
-Segundo proyecto musical con su propio reproductor de Spotify y enlaces independientes hacia sus plataformas.
-
----
-
-## 🐺 Conecta con la Manada
-
-Sección dedicada a las redes sociales y plataformas musicales.
-
-Incluye accesos para:
-
-- SoundCloud
-- Deezer
-- Spotify
-- Apple Music
-- YouTube Music
-- TikTok
-
-Al seleccionar una plataforma, la interfaz permite elegir entre los perfiles disponibles de:
-
-- **DemWolf IA Music**
-- **DemWolf Unleashed**
-
-Esto permite mantener ambos proyectos dentro de una misma identidad web sin perder sus perfiles independientes.
-
----
-
-# 💻 Tecnologías utilizadas
-
-El proyecto fue desarrollado utilizando tecnologías web simples y ligeras, sin necesidad de frameworks de frontend complejos.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
 ### Frontend
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Bootstrap 5.3**
-- **Google Fonts**
-- **Google Material Symbols**
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5.3
 
-### Integraciones
+### Recursos externos
 
+- Google Fonts
+- Google Material Symbols
 - Spotify Embed
+
+### Plataformas integradas
+
 - Spotify
 - Apple Music
 - Deezer
@@ -202,45 +173,165 @@ El proyecto fue desarrollado utilizando tecnologías web simples y ligeras, sin 
 
 # 🎨 Diseño
 
-La interfaz utiliza una estética inspirada en el **Heavy Metal, Hard Rock y Metal moderno**.
+El diseño está inspirado principalmente en la estética del:
 
-Entre sus principales características visuales se encuentran:
+- Heavy Metal
+- Hard Rock
+- Metal moderno
 
-- Fondo oscuro
-- Tonalidades negras y grises
-- Rojo como color principal de acento
-- Tipografía de alto impacto
-- Gradientes oscuros
+La interfaz utiliza una combinación de tonos oscuros con rojo como color principal de acento.
+
+Entre sus características visuales se encuentran:
+
+- Fondos negros y grises
+- Acentos en rojo oscuro
+- Tipografías de alto impacto
+- Fotografías de estilo cinematográfico
+- Gradientes
 - Texturas tipo grain
-- Fotografías cinematográficas
-- Elementos minimalistas
-- Diseño responsive
-- Animaciones y transiciones suaves
+- Animaciones sutiles
+- Efectos hover
+- Componentes responsivos
+- Integración visual con Spotify
 
-La paleta principal utiliza:
+---
+
+## 🎨 Paleta principal
 
 ```css
 --bs-body-bg: #131313;
+--bs-body-color: #e5e2e1;
 --primary-red: #b22222;
 --surface-container: #201f1f;
 --surface-low: #1c1b1b;
 --surface-lowest: #0e0e0e;
+--outline: #aa8986;
 ```
 
 ---
 
-# 📱 Diseño responsive
+# 📱 Responsive Design
 
-La página fue desarrollada para adaptarse correctamente a diferentes tamaños de pantalla.
+La página está diseñada para adaptarse a distintos tamaños de pantalla.
 
-Está optimizada para:
+Compatible con:
 
-- 🖥️ Escritorio
-- 💻 Notebook
+- 🖥️ Computadores de escritorio
+- 💻 Notebooks
 - 📱 Tablets
 - 📱 Smartphones
 
-El diseño utiliza **Bootstrap Grid**, media queries personalizadas y unidades responsivas para adaptar imágenes, tipografías, reproductores y navegación.
+Para ello se utilizan:
+
+- Bootstrap Grid
+- Flexbox
+- Media Queries
+- Tipografías responsivas con `clamp()`
+- Imágenes adaptables
+- Reproductores responsivos
+- Navegación móvil mediante Bootstrap
+
+---
+
+# 🗂️ Secciones del sitio
+
+## 🏠 Inicio
+
+La sección principal presenta la identidad de **DemWolf IA Music**.
+
+Incluye:
+
+- Banner principal
+- Logo
+- Géneros musicales
+- Botón para acceder a la música
+- Acceso directo a Spotify
+
+---
+
+## 👤 Sobre Mí
+
+Sección donde se explica la idea detrás del proyecto.
+
+Incluye información relacionada con:
+
+- Proceso creativo
+- Géneros musicales
+- Autoría de las letras
+- Uso de IA como herramienta de producción
+- Experiencias personales
+- Concepto artístico
+
+---
+
+## 🎧 Mis proyectos
+
+La sección musical está dividida actualmente en dos proyectos.
+
+### DemWolf IA Music
+
+Incluye:
+
+- Reproductor Spotify integrado
+- Spotify
+- Apple Music
+- Deezer
+- SoundCloud
+- YouTube Music
+- TikTok
+
+### DemWolf Unleashed
+
+Incluye:
+
+- Reproductor Spotify integrado
+- Spotify
+- Apple Music
+- YouTube Music
+- YouTube
+- TikTok
+
+---
+
+# 🐺 Conecta con la Manada
+
+La sección **Conecta con la Manada** centraliza los accesos a las distintas plataformas musicales y redes sociales.
+
+Las tarjetas mantienen una interfaz minimalista acorde con el diseño general del sitio.
+
+Al seleccionar una plataforma compatible, el usuario puede elegir entre las cuentas de:
+
+```text
+DemWolf IA Music
+
+o
+
+DemWolf Unleashed
+```
+
+De esta forma es posible mantener los dos proyectos separados musicalmente, pero centralizados desde una única página oficial.
+
+En las plataformas donde **DemWolf Unleashed** todavía no dispone de perfil, la opción puede mostrarse como próximamente disponible.
+
+---
+
+# 🎧 Integración con Spotify
+
+La página utiliza los reproductores oficiales de **Spotify Embed**.
+
+Esto permite escuchar los lanzamientos directamente desde el sitio sin necesidad de abandonar inmediatamente la página.
+
+Se utilizan reproductores independientes para:
+
+```text
+DemWolf IA Music
+```
+
+y:
+
+```text
+DemWolf Unleashed
+```
 
 ---
 
@@ -250,7 +341,6 @@ El diseño utiliza **Bootstrap Grid**, media queries personalizadas y unidades r
 DemWolfIAMusic/
 │
 ├── index.html
-│
 ├── README.md
 │
 ├── css/
@@ -268,109 +358,143 @@ DemWolfIAMusic/
         └── logo-small.png
 ```
 
+La carpeta `assets/img/` contiene los recursos gráficos utilizados por la página.
+
 ---
 
-# 🚀 Ejecutar el proyecto
+# 🚀 Ejecutar el proyecto localmente
 
-El proyecto no necesita instalación de dependencias ni compilación.
+Este proyecto no requiere instalación de dependencias ni proceso de compilación.
 
-Puedes descargar o clonar el repositorio:
-
-```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
-```
-
-Luego entra al proyecto:
+## 1. Clonar el repositorio
 
 ```bash
-cd TU-REPOSITORIO
+git clone https://github.com/demwolfxz/DemWolfIAMusic.git
 ```
 
-Y abre:
+## 2. Entrar al proyecto
+
+```bash
+cd DemWolfIAMusic
+```
+
+## 3. Abrir la página
+
+Puedes abrir directamente:
 
 ```text
 index.html
 ```
 
-También puede ejecutarse utilizando extensiones como **Live Server** en Visual Studio Code.
+También puedes utilizar **Live Server** desde Visual Studio Code para ejecutarlo mediante un servidor local.
 
 ---
 
-# 🌍 Publicación
+# 🌍 GitHub Pages
 
-El sitio está preparado para ser alojado como página estática utilizando servicios como:
+La página está publicada utilizando **GitHub Pages**.
 
-- GitHub Pages
-- Netlify
-- Vercel
-- Cloudflare Pages
+### Sitio en producción
 
-Para utilizar **GitHub Pages**, puedes configurar:
+👉 https://demwolfxz.github.io/DemWolfIAMusic/
+
+### Repositorio
+
+👉 https://github.com/demwolfxz/DemWolfIAMusic
+
+---
+
+# 🎯 Objetivo del sitio
+
+El objetivo es disponer de un sitio propio que funcione como punto central del ecosistema **DemWolf**.
 
 ```text
-Repository
-→ Settings
-→ Pages
-→ Deploy from a branch
-→ main
-→ /root
+                         DEMWOLF
+                            │
+             ┌──────────────┴──────────────┐
+             │                             │
+             ▼                             ▼
+     DEMWOLF IA MUSIC              DEMWOLF UNLEASHED
+             │                             │
+             └──────────────┬──────────────┘
+                            │
+                            ▼
+                   SITIO WEB OFICIAL
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+        ▼                   ▼                   ▼
+     Spotify           Apple Music          YouTube
+        │                   │                   │
+        ▼                   ▼                   ▼
+      Deezer              TikTok            SoundCloud
 ```
+
+Esto permite que nuevas plataformas, canciones y proyectos puedan incorporarse progresivamente sin depender exclusivamente de una red social.
 
 ---
 
-# 🎯 Objetivo del proyecto
+# 👨‍💻 Objetivo técnico
 
-El objetivo de esta página es contar con un espacio propio que permita centralizar todo el contenido relacionado con **DemWolf**.
+Además de funcionar como página oficial del proyecto musical, este repositorio representa un proyecto personal de desarrollo frontend.
 
-En lugar de depender únicamente de redes sociales o plataformas de streaming, el sitio funciona como punto de entrada hacia todo el ecosistema musical:
+Durante su desarrollo se trabajó con:
 
-```text
-                     DEMWOLF
-                        │
-           ┌────────────┴────────────┐
-           │                         │
-   DEMWOLF IA MUSIC         DEMWOLF UNLEASHED
-           │                         │
-           └────────────┬────────────┘
-                        │
-                 Página oficial
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-     Spotify        Apple Music      YouTube
-        │               │               │
-     Deezer          TikTok        SoundCloud
-```
-
-De esta manera, la página puede crecer junto con los nuevos lanzamientos y futuros proyectos.
+- Estructuración semántica mediante HTML
+- Diseño personalizado mediante CSS
+- Bootstrap Grid
+- Responsive Design
+- Integración de servicios externos
+- Spotify Embed
+- Manipulación del DOM mediante JavaScript
+- Eventos de usuario
+- Menús interactivos
+- Navegación responsive
+- Diseño adaptable para móviles
+- Publicación mediante GitHub Pages
 
 ---
 
-# 🔮 Próximas mejoras
+# 🔮 Mejoras futuras
 
-Algunas funciones que pueden incorporarse en futuras versiones:
+El proyecto puede seguir creciendo con nuevas funcionalidades.
 
-- [ ] Sección de lanzamientos individuales
-- [ ] Videoclips
+- [ ] Discografía visual completa
+- [ ] Página individual para cada lanzamiento
 - [ ] Letras de canciones
-- [ ] Historias detrás de cada canción
-- [ ] Discografía completa
-- [ ] Portadas de singles y álbumes
-- [ ] Integración con YouTube
-- [ ] Noticias del proyecto
+- [ ] Historia detrás de cada canción
+- [ ] Videoclips
+- [ ] Integración adicional con YouTube
 - [ ] Próximos lanzamientos
-- [ ] Nuevos proyectos dentro del universo DemWolf
+- [ ] Noticias
+- [ ] Nuevas plataformas
+- [ ] Nuevos proyectos musicales
+- [ ] Mejoras de accesibilidad
+- [ ] Optimización SEO
+- [ ] Open Graph para compartir la página en redes sociales
 
 ---
 
-# 🐺 DemWolf
+# 🎶 Filosofía del proyecto
 
-> Música nacida de experiencias, emociones y momentos que terminan convertidos en canciones.
+> Música nacida de experiencias, emociones y momentos convertidos en canciones.
 
 **Hard Rock • Heavy Metal • Power Metal • Metalcore • Djent**
 
 ---
 
-## © DemWolf IA Music
+## 🐺 DemWolf
 
+### DemWolf IA Music & DemWolf Unleashed
+
+🌐 **Sitio oficial:**  
+https://demwolfxz.github.io/DemWolfIAMusic/
+
+📦 **Código fuente:**  
+https://github.com/demwolfxz/DemWolfIAMusic
+
+---
+
+### © DemWolf IA Music
+### © DemWolf Unleashed
 Todos los derechos reservados.
