@@ -12,8 +12,8 @@ Metalcore • Djent • Deathcore • Metal moderno
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_Sitio_Web-DemWolf-b22222?style=for-the-badge)](https://demwolfxz.github.io/DemWolfIAMusic/)
-[![GitHub](https://img.shields.io/badge/GitHub-DemWolfIAMusic-181717?style=for-the-badge&logo=github)](https://github.com/demwolfxz/DemWolfIAMusic)
+[![Website](https://img.shields.io/badge/🌐_Sitio_Web-DemWolf-b22222?style=for-the-badge)](https://alejandro-villa-dev.github.io/DemWolfIAMusic/)
+[![GitHub](https://img.shields.io/badge/GitHub-DemWolfIAMusic-181717?style=for-the-badge&logo=github)](https://alejandro-villa-dev.github.io/DemWolfIAMusic/)
 
 </div>
 
@@ -285,7 +285,7 @@ La intención es que alguien que sigue **DemWolf IA Music** sepa aproximadamente
 
 Aunque musicalmente están separados, ambos proyectos se encuentran centralizados en el mismo sitio oficial:
 
-🔗 **https://demwolfxz.github.io/DemWolfIAMusic/**
+🔗 **https://alejandro-villa-dev.github.io/DemWolfIAMusic/**
 
 Esto permite mantener una identidad común sin mezclar las discografías.
 
@@ -560,7 +560,7 @@ El sitio se encuentra publicado mediante **GitHub Pages**.
 
 ### 🌐 Sitio oficial
 
-https://demwolfxz.github.io/DemWolfIAMusic/
+https://alejandro-villa-dev.github.io/DemWolfIAMusic/
 
 ### 📦 Repositorio
 
@@ -651,7 +651,7 @@ El proyecto puede continuar creciendo con:
 <br>
 
 🌐 **Sitio oficial**  
-https://demwolfxz.github.io/DemWolfIAMusic/
+https://alejandro-villa-dev.github.io/DemWolfIAMusic/
 
 📦 **Código fuente**  
 https://github.com/demwolfxz/DemWolfIAMusic
